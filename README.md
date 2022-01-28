@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @bryan-jun
 - 👀 I’m interested in bettering myself and others.
 - 🌱 I’m currently learning full stack development.
-- 💞️ I’m looking to collaborate on cool projects.
+- 🐦 Follow my coding projects & NFT alpha on Twitter @thebryanjun.
 - 📫 How to reach me - chatwithbryanjun@gmail.com.
 
 <!---
